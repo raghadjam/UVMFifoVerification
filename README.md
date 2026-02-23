@@ -59,7 +59,7 @@ The goal of this project is to demonstrate a structured and reusable UVM verific
 
 ---
 
-## 🧪 Verification Features
+## Verification Features
 
 * UVM layered architecture (Agent, Environment, Scoreboard)
 * Constrained random stimulus
@@ -70,7 +70,7 @@ The goal of this project is to demonstrate a structured and reusable UVM verific
 
 ---
 
-## 🎯 Verification Goals
+## Verification Goals
 
 The environment verifies:
 
